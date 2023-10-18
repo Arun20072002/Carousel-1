@@ -1,0 +1,14 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+.carousel-item{
+	height:75vh;	
+}
+.carousel-indicators [data-bs-target]{
+	width:10px !important;
+	height:10px !important;
+	background-color:#fff !important;
+	border-radius:50%;
+}
